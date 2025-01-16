@@ -52,8 +52,8 @@ Follow these steps to get The Wild Oasis up and running on your local machine:
 3. **Set up environment variables**:
    Create a `.env` file in the root directory with the following:
    ```env
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+   SUPABASE_URL=your_supabase_url
+   SUPABASE_KEY=your_supabase_anon_key
    NEXTAUTH_URL=your_project_url
    AUTH_SECRET=your_auth_secret
    GOOGLE_CLIENT_ID=your_google_client_id
@@ -72,7 +72,7 @@ Follow these steps to get The Wild Oasis up and running on your local machine:
 
 ## 🌟 Live Demo
 
-Experience **The Wild Oasis** live: [The Wild Oasis on Vercel](https://the-wild-oasis-prod.vercel.app) ✨
+Experience **The Wild Oasis** live: [The Wild Oasis Website](https://the-wild-oasis-prod.vercel.app) ✨
 
 ---
 
